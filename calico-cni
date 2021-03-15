@@ -1,0 +1,2 @@
+# 需要构建的镜像名称和版本
+FROM quay.io/calico/cni:v3.1.7
